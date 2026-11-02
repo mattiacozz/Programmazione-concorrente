@@ -1,0 +1,12 @@
+/tmp/
+__pycache__/
+*.pyc
+*.o
+a.out
+*.log
+*.tmp
+*.swp
+*~
+.env
+.env.*
+!.env.example
